@@ -1,5 +1,46 @@
-# exchange
-This application was generated using JHipster 4.13.1, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.1](http://www.jhipster.tech/documentation-archive/v4.13.1).
+# Local Bitcoin Cash Exchange
+The real bitcoin buy and sell and fair price with maximum ease, in your local currency 
+
+Aims to be following 
+
+- Open 
+- Extensible 
+- Easy to maintain 
+- Instant
+- Person to Person
+- Interactive 
+- Useful 
+
+## Open 
+
+Exchanges are closed source by design and philosophy, that makes them prone to hack and mismanagement.
+
+## Extensible
+
+Based on latest JAVA REST API framework, anyone should be able to extend the 
+exchange based on a new requirement and features.
+
+## Easy to maintain 
+
+The idea behind an exchange is to scale as with userbase grows providing maximum security 
+and ease of maintaining the infra etc.
+
+## Instant
+
+Exchange with instant buy and sell orders to remove friction between customer BCH.
+
+## Person To Person
+
+BCH is peer t peer why not exchange fiat and crypto peer to peer.
+
+## Interactive 
+
+Existing exchanges are dull and don't attract anything new in terms of 
+User experience. We aim to provide mobile web based best UX/UI
+
+## Useful
+
+It should be useful for the network and community.
 
 ## Development
 
