@@ -1,15 +1,31 @@
 # Local Bitcoin Cash Exchange
-The real bitcoin buy and sell and fair price with maximum ease, in your local currency 
+The real bitcoin buy and sell and fair price with  ease, in your local currency 
+
+Bitcoin cash was launched in mid 2017 amidst of crisis in crypto community  diverging viewpoints of about how to scale the network.
+
+The position of cryptocurrency is highly speculative and uncertain and has yet to reach masses around the world. Promise of BCH is to be reliable and sound money across globe to help attain financial sovereignty,
+
+The aim of localbch.shop is to initiate changes in the market so that wide range of users could take part in buying and selling of BCH within their region without regulatory hurdles.
+ 
+This goal is being accomplished by localbch using open source design methodology implemented in user friendly platform.
+ 
+The development of localbch has started in December 2017 and test/beta version will be launched in January 2018. 
+
+The objective of the soft launch is to test basic version of the product and security challenges.
+
+Localbch has all the pre-requisites to succeed and to occupy leading position in the market among industry players thanks to its thorough strategic planning and adopting open design philosophy which allows localbch to be the first exchange of its kind.
 
 Aims to be following 
 
-- Open 
-- Extensible 
-- Easy to maintain 
-- Instant
-- Person to Person
-- Interactive 
-- Useful 
+- Automatic multi-attribute auction trading engine. 
+- Hybrid governance model. 
+- Data Driven counterparty risk mitigation. 
+- Safety System (Inbuilt)
+- Using multisig for settlement in auction
+- Encrypted messaging 
+- Decentralized settlement.
+
+While keeping things in mind also that localbch also stays
 
 ## Open 
 
