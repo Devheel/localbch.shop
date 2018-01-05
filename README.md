@@ -1,4 +1,7 @@
 # Local Bitcoin Cash Exchange
+
+[logo]:  logo.png "LocalBCH.shop"
+
 The real bitcoin buy and sell and fair price with  ease, in your local currency 
 
 Bitcoin cash was launched in mid 2017 amidst of crisis in crypto community  diverging viewpoints of about how to scale the network.
