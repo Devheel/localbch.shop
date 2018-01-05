@@ -1,6 +1,9 @@
 # Local Bitcoin Cash Exchange
 
-[logo]:  logo.png "LocalBCH.shop"
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/upscaletech/localbch.shop/master/logo.png "LocalBCH.shop"
+
 
 The real bitcoin buy and sell and fair price with  ease, in your local currency 
 
