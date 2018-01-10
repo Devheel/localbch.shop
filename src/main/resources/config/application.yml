@@ -124,3 +124,16 @@ jhipster:
 # ===================================================================
 
 application:
+    multichain:
+        host: localhost
+        port: 6824
+        username: none
+        password: none
+
+    bitcoincash:
+        host:
+        port:
+        username:
+        passsword:
+
+

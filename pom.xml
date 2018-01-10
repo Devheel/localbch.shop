@@ -86,6 +86,13 @@
         <!-- jhipster-needle-maven-property -->
     </properties>
 
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -120,6 +127,12 @@
             <groupId>io.dropwizard.metrics</groupId>
             <artifactId>metrics-json</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.github.SimplyUb</groupId>
+            <artifactId>MultiChainJavaAPI</artifactId>
+            <version>master</version>
+        </dependency>
+
         <dependency>
             <groupId>io.dropwizard.metrics</groupId>
             <artifactId>metrics-jvm</artifactId>
