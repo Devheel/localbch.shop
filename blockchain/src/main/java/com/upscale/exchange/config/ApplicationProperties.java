@@ -1,6 +1,7 @@
 package com.upscale.exchange.config;
 
 import io.github.jhipster.config.JHipsterProperties;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
@@ -13,15 +14,21 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class ApplicationProperties {
 
 
-    private final Blockchain blockchain = new Blockchain();
+    private final ApplicationProperties.Blockchain  blockchain = new ApplicationProperties.Blockchain();
 
 
-    public Blockchain getBlockchainParams() {
-        return blockchain;
+    public ApplicationProperties() {
+
     }
 
-
+    public ApplicationProperties.Blockchain getBlockchain(){
+        return this.blockchain;
+    }
     public static class Blockchain {
+
+        public Blockchain(){
+
+        }
         //Port of the multichain
         private String port;
 
@@ -69,5 +76,7 @@ public class ApplicationProperties {
         public void setPassword(String password) {
             this.password = password;
         }
+
+
     }
 }

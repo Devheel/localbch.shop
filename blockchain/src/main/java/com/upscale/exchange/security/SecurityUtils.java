@@ -1,7 +1,5 @@
 package com.upscale.exchange.security;
 
-import com.upscale.exchange.service.Blockchain;
-import jdk.nashorn.internal.ir.BlockLexicalContext;
 import org.springframework.security.core.context.SecurityContext;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;

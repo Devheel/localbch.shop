@@ -152,3 +152,10 @@ jhipster:
 # ===================================================================
 
 application:
+
+     blockchain:
+            host: '67.228.172.142'
+            port: '8386'
+            username: 'multichainrpc'
+            password: '2DAnAEVBcVGbvvyRCrL86bXvA5rZc4E7oBXLuQxfKCFz'
+
