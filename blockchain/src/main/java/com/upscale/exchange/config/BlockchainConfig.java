@@ -6,15 +6,15 @@ import multichain.object.MultiChainInfo;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 
-
-
+@Configuration
 public class BlockchainConfig  {
 
     private final org.slf4j.Logger log = LoggerFactory.getLogger(BlockchainConfig.class);
 
-    @Autowired
+
     private final ApplicationProperties.Blockchain applicationProperties;
 
 

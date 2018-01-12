@@ -20,7 +20,7 @@ public class ApplicationProperties {
     public ApplicationProperties() {
 
     }
-
+    
     public ApplicationProperties.Blockchain getBlockchain(){
         return this.blockchain;
     }
